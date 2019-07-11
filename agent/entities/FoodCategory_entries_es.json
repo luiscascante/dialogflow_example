@@ -1,0 +1,43 @@
+[
+  {
+    "value": "comida rápida",
+    "synonyms": [
+      "aros de cebolla",
+      "comida rápida",
+      "hamburguesa",
+      "hotdog",
+      "papas fritas",
+      "perro caliente"
+    ]
+  },
+  {
+    "value": "italiana",
+    "synonyms": [
+      "antipasto",
+      "bruschette",
+      "carpaccio",
+      "focaccie",
+      "italiana",
+      "lasagna",
+      "pasta",
+      "pizza",
+      "ravioli"
+    ]
+  },
+  {
+    "value": "mexicana",
+    "synonyms": [
+      "al pastor",
+      "burritos",
+      "chalupas",
+      "chilaquiles",
+      "chimichangas",
+      "enchiladas",
+      "gringa",
+      "huaraches",
+      "quesadillas",
+      "sopa azteca",
+      "tacos"
+    ]
+  }
+]

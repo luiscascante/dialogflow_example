@@ -16,7 +16,13 @@ export default class DialogflowBot {
 
   getCurrentTime(agent) {
     const today = new Date();
-    const currentTime = today.getHours() + ":" + today.getMinutes();
+    console.log(today.getMinutes());
+    const currentTime =
+      today.getHours() +
+      ":" +
+      (today.getMinutes().toString().length == 2
+        ? today.getMinutes()
+        : today.getMinutes() * 10);
     const text = new Text(currentTime);
     agent.add(text);
   }

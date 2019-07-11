@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2ce933eb-8991-4f6e-9df2-323898de66b5",
+    "data": [
+      {
+        "text": "Hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "860a05ae-e26a-424b-9db7-90fe64f92f75",
+    "data": [
+      {
+        "text": "Dime la hora.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11991e0e-aded-4693-bc60-7edc1e653c2d",
+    "data": [
+      {
+        "text": "¿Qué hora es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
